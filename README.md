@@ -1,1 +1,1 @@
-# ml-demo
+# Machine learning algorithms demo
